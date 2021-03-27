@@ -4,13 +4,9 @@ import { MdError } from "react-icons/md";
 import { TiTick } from "react-icons/ti";
 import { MdWarning } from "react-icons/md";
 import { useEffect, useState } from "react";
-export const Toast = ({ text, type, position, duration }) => {
+export const Toast = ({ text, type, position }) => {
   const [displayToast, setDisplayToast] = useState("flex");
-  useEffect(() => {
-    setTimeout(() => {
-      setDisplayToast("none");
-    }, [duration]);
-  });
+  
   const toastTypeDatabase = {
     success: {
       bgColor: "#bdfcc9",

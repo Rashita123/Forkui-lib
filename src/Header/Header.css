@@ -43,7 +43,6 @@ a:active {
 }
 
 .open-sidebar-icon {
-  position: fixed;
   right: 2rem;
   display: none;
   cursor: pointer;
