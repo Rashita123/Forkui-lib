@@ -2,7 +2,7 @@
 
 Fork UI provides a set of accessible, reusable, and composable React components that make it super easy to create webapps.
 
-# [Documentation Site](https://forkui.netlify.app/)
+# [Docs Site](https://forkui.netlify.app/)
 
 # Installing ForkUI
 Run the following command to install forkUI library to your React project Directory
