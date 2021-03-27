@@ -1,0 +1,13 @@
+.documentation {
+  width: 70%;
+  /* margin: auto; */
+  margin-right: 3rem;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 600px) {
+  .documentation {
+    width: 90vw;
+    margin: auto;
+  }
+}
