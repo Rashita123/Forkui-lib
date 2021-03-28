@@ -186,6 +186,15 @@ export const ButtonDocs = () => {
         />
       </div>
       <Gist id="3635d321524acbf1513fe4f11876b09e" />
+      <h3>Toggle Button</h3>
+      <p>
+        Toggle Button can be used to toggle between two values, for an example:
+        Dark and Light Mode.
+      </p>
+      <div className="usage">
+        <ToggleButton />
+      </div>
+      <Gist id="3081dcff3467e5d2cfb0e996cd617e1c" />
     </div>
   );
 };
