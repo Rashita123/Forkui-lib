@@ -135,31 +135,31 @@ export const ButtonDocs = () => {
       <h3>Rounded Buttons</h3>
       <p>
         <code>borderRadius</code> prop can be used to set the border radius of
-        the buttons. It can take up 4 values - <code>b1, b2, b3, full</code>.
-        The default value of this prop is <code>b1</code>.
+        the buttons. It can take up 4 values - <code>border-1, border-2, border-3, circle</code>.
+        The default value of this prop is <code>border-1</code>.
       </p>
       <div className="usage make-flex">
         <Button
           text="Twitter"
           leftIcon={<FaTwitter />}
-          borderRadius="b1"
+          borderRadius="border-1"
           colorScheme="twitter"
         />
         <Button
           text="Twitter"
           leftIcon={<FaTwitter />}
-          borderRadius="b2"
+          borderRadius="border-2"
           colorScheme="twitter"
         />
         <Button
           text="Twitter"
           leftIcon={<FaTwitter />}
-          borderRadius="b3"
+          borderRadius="border-3"
           colorScheme="twitter"
         />
         <Button
           leftIcon={<FaTwitter />}
-          borderRadius="full"
+          borderRadius="circle"
           colorScheme="twitter"
         />
       </div>
