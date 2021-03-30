@@ -1,5 +1,8 @@
 # Forkui-lib
 
+![Preview-forkUI](https://user-images.githubusercontent.com/56469693/112981403-c446a800-9178-11eb-91fe-3bd2c7faa878.gif)
+
+
 Fork UI provides a set of accessible, reusable, and composable React components that make it super easy to create webapps.
 
 # [Docs Site](https://forkui.netlify.app/)
