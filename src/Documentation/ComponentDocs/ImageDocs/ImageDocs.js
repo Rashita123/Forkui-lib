@@ -27,12 +27,12 @@ export const ImageDocs = ({ src, alt }) => {
       <p>
         We can set the border-radius to different values using the{" "}
         <code>borderSize</code>prop. Values it can take are -{" "}
-        <code>b1, b2, b3, and full</code>. <strong>full</strong> makes the image{" "}
-        <strong>circle</strong>. The default value is <code>b1</code>
+        <code>radius-1, radius-2, radius-3, and circle</code>. <strong>full</strong> makes the image{" "}
+        <strong>circle</strong>. The default value is <code>radius-1</code>
       </p>
       <div className="usage make-flex">
-        <Image src="https://bit.ly/3qZAJqc" borderSize="b2" />
-        <Image src="https://bit.ly/3qZAJqc" borderSize="full" />
+        <Image src="https://bit.ly/3qZAJqc" borderSize="radius-2" />
+        <Image src="https://bit.ly/3qZAJqc" borderSize="circle" />
       </div>
       <Gist id="3bdcf4b85abeea04f926ed0fbfc899cf" />
 
