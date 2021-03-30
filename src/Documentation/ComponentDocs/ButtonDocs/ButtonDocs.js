@@ -110,7 +110,7 @@ export const ButtonDocs = () => {
         simply use their buttons via the <code>colorScheme</code> prop.
       </p>
       <div className="usage make-flex">
-        <Button leftIcon={<FaFacebook />} colorScheme="fb" text="Facebook" />
+        <Button leftIcon={<FaFacebook />} colorScheme="facebook" text="Facebook" />
         <Button leftIcon={<FaTwitter />} colorScheme="twitter" text="Twitter" />
       </div>
       <Gist id="04b7711de27fd76c3cfd1f2f7565c09c" />
@@ -120,7 +120,7 @@ export const ButtonDocs = () => {
       <div className="usage make-flex">
         <Button
           leftIcon={<FaFacebook />}
-          colorScheme="fb"
+          colorScheme="facebook"
           variant="secondary"
           text="Facebook"
         />
