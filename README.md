@@ -7,6 +7,13 @@ Fork UI provides a set of accessible, reusable, and composable React components 
 
 # [Docs Site](https://forkui.netlify.app/)
 
+# Features
+1. Use common React components directly in your project.
+2. Customize these components according to your requirements and theme.
+3. UI development and testing done using Storybook.
+4. Module Bundler used for this project: rollup.js.
+5. Docs Site deployed using Netlify.
+
 # Installing ForkUI
 Run the following command to install forkUI library to your React project Directory
 `$ npm i forkui-lib`
