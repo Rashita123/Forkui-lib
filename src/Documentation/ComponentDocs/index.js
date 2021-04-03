@@ -1,0 +1,12 @@
+export { ShowCode } from "../../MainArea/ShowCode/ShowCode";
+export { ButtonDocs } from "./ButtonDocs/ButtonDocs";
+export { InputDocs } from "./InputDocs/InputDocs";
+export { AvatarDocs } from "./AvatarDocs/AvatarDocs";
+export { ToastDocs } from "./ToastDocs/ToastDocs";
+export { CheckboxDocs } from "./CheckboxDocs/CheckboxDocs";
+export { ImageDocs } from "./ImageDocs/ImageDocs";
+export { BadgeDocs } from "./BadgeDocs/BadgeDocs";
+export { CardDocs } from "./CardDocs/CardDocs";
+export { AlertDocs } from "./AlertDocs/AlertDocs";
+export { ListDocs } from "./ListDocs/ListDocs";
+export { GettingStarted } from "./GettingStarted/GettingStarted";
